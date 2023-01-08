@@ -9,7 +9,7 @@ import { Poster, useLivepeerProvider } from '@livepeer/react'
 import { useCreateStream } from '@livepeer/react';
 
 
-//here
+
 export default function Profile() {
     const provider = useLivepeerProvider();
     const [streamName, setStreamName] = useState();
