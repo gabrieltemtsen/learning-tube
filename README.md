@@ -10,9 +10,9 @@ To Complete the project and implement more technologies on the platform.
 To launch the Learning-Tube on the Mainnet.
 
 # Demo Images
-![Image](https://github.com/gabrieltemtsen/learning-tube/blob/main/src/images/demo1.png)
-![Image](https://github.com/gabrieltemtsen/learning-tube/blob/main/src/images/demo2.png)
-![Image](https://github.com/gabrieltemtsen/learning-tube/blob/main/src/images/demo3.png)
+![Image](https://github.com/gabrieltemtsen/learning-tube/blob/main/images/demo1.png)
+![Image](https://github.com/gabrieltemtsen/learning-tube/blob/main/images/demo2.png)
+![Image](https://github.com/gabrieltemtsen/learning-tube/blob/main/images/demo3.png)
 
 
 
