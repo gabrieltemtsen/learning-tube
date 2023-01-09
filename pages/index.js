@@ -12,7 +12,8 @@ export default function Home() {
      <main>
 
         <div className={styles.center}>
-         Welcome TO LEARNGING TUUBEsss
+         
+         <p>Welcome to Learning Tube a decentralised application for watching and streaming videos online.</p>
           
         </div>
 
