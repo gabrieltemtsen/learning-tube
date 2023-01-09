@@ -11,8 +11,8 @@ To launch the Learning-Tube on the Mainnet.
 
 # Demo Images
 ![Image](https://github.com/gabrieltemtsen/learning-tube/blob/main/images/demo1.png)
-![Image](https://github.com/gabrieltemtsen/learning-tube/blob/main/images/demo2.png)
-![Image](https://github.com/gabrieltemtsen/learning-tube/blob/main/images/demo3.png)
+![Image](https://github.com/gabrieltemtsen/learning-tube/blob/main/images/Demo2.png)
+![Image](https://github.com/gabrieltemtsen/learning-tube/blob/main/images/Demo3.png)
 
 
 
