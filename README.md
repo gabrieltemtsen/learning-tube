@@ -9,7 +9,7 @@ To improve the UI/UX of the platform for a better experience.
 To Complete the project and implement more technologies on the platform.
 To launch the Learning-Tube on the Mainnet.
 
-#Demo Images
+#D emo Images
 ![Image](https://github.com/gabrieltemtsen/opticalflip/blob/main/src/images/demo1.png)
 ![Image](https://github.com/gabrieltemtsen/opticalflip/blob/main/src/images/demo2.png)
 ![Image](https://github.com/gabrieltemtsen/opticalflip/blob/main/src/images/demo3.png)
